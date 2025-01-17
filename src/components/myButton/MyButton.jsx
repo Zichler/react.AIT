@@ -2,6 +2,6 @@ import './myButton.css'
 
 
 function MyButton() {
-    return <button>Click me!</button>;
+    return <button className='myButton'>Click me!</button>;
 }
 export default MyButton;
