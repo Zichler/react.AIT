@@ -1,0 +1,7 @@
+.MyButton {
+    margin: 3px;
+    background-color: aqua;
+}
+.myButton:hover {
+    background-color: black;
+}
