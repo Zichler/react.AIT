@@ -20,7 +20,7 @@ function Lesson03() {
       <p>Вызов компонентов-карточек с передачей props:</p>
       <UserCard name={'Peter'} age={35} hobby={'hiking'} />
       <UserCard name={'Rosa'} age={40} hobby={'diving'} />
-      <UserCard name={'Anton'} age={28} />
+      <UserCard name={'Anton'} age={28} hobby={'board games'}/>
       <p>Добавили props для кнопки:</p>
       <MyButton func={handleClick} text={'Click me!'} type={'button'}/>
       <MyButton func={handleSubmit} text={'Submit'} type={'submit'}/>
