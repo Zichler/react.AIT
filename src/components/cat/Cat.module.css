@@ -1,0 +1,26 @@
+.catContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  max-height: 700px;
+  overflow-y: auto;
+  padding: 20px;
+}
+
+.catItem {
+  background-color: #f3f3f3;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.catItem img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.loader {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}

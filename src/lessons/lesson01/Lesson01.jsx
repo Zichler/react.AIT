@@ -1,4 +1,6 @@
-import reactImg from "../assets/react.svg";
+import reactImg from '@assets/react.svg';
+
+
 function Lesson01() {
   return (
     <div>
