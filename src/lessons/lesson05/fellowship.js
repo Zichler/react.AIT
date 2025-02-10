@@ -53,9 +53,9 @@ export const fellowship = [
       "https://gamesartist.co.uk/wp-content/uploads/2023/03/srdjan-orelj-gollum-00.jpg",
   },
 ];
-// fellowship.map( hero=> {
-//     console.log(`${hero.name} is ${hero.age}`)
-//     return `${hero.name} is ${hero.age}`
+// // fellowship.map( hero=> {
+// //     console.log(`${hero.name} is ${hero.age}`)
+// //     return `${hero.name} is ${hero.age}`
 // })
 
 
